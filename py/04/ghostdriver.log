@@ -1,0 +1,26 @@
+[INFO  - 2017-09-28T19:52:01.321Z] GhostDriver - Main - running on port 57267
+[INFO  - 2017-09-28T19:52:01.618Z] Session [7eb00fd0-a486-11e7-bc84-bf49d805a2d9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-09-28T19:52:01.618Z] Session [7eb00fd0-a486-11e7-bc84-bf49d805a2d9] - page.customHeaders:  - {}
+[INFO  - 2017-09-28T19:52:01.618Z] Session [7eb00fd0-a486-11e7-bc84-bf49d805a2d9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-09-28T19:52:01.618Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7eb00fd0-a486-11e7-bc84-bf49d805a2d9
+[ERROR - 2017-09-28T19:52:05.366Z] Session [7eb00fd0-a486-11e7-bc84-bf49d805a2d9] - page.onError - msg: ds@https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:7299:519
+KZ@https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:4199:224
+Tra@https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:4212:62
+y1@https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:4191:103
+https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:7335:167
+load@https://www.youtube.com/watch?v=WbsC_fGArVc&list=RDWbsC_fGArVc:187:49415
+https://www.youtube.com/watch?v=WbsC_fGArVc&list=RDWbsC_fGArVc:187:49561
+global code@https://www.youtube.com/watch?v=WbsC_fGArVc&list=RDWbsC_fGArVc:187:49566
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-28T19:52:05.367Z] Session [7eb00fd0-a486-11e7-bc84-bf49d805a2d9] - page.onError - stack:
+  ds (https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:7299)
+  KZ (https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:4199)
+  Tra (https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:4212)
+  y1 (https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:4191)
+  (anonymous function) (https://www.youtube.com/yts/jsbin/player-vflcAIVzv/en_US/base.js:7335)
+  load (https://www.youtube.com/watch?v=WbsC_fGArVc&list=RDWbsC_fGArVc:187)
+  (anonymous function) (https://www.youtube.com/watch?v=WbsC_fGArVc&list=RDWbsC_fGArVc:187)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-09-28T19:57:01.312Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
