@@ -5,4 +5,4 @@ RUN pip install Flask-RESTful Elasticsearch Nameko
 
 COPY microservice.py .
 
-CMD ["nameko", "run", "--broker", "amqp://guest:guest@rabbitmq", "microservice"]
+CMD ["python", "-u", "microservice.py"]
