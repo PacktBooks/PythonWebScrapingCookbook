@@ -9,8 +9,7 @@
         "ecs:DiscoverPollEndpoint",
         "ecs:Poll",
         "ecs:RegisterContainerInstance",
-        "ecs:Submit*",
-	"ecr:*"
+        "ecs:Submit*"
       ],
       "Resource": [
         "*"
