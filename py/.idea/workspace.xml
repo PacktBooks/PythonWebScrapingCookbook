@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8c3d48c-f939-45ba-b22e-fc4e06d6a4d8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/03/elasticcloud_starwars.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/04/search_starwars.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/05/search_jobs_by_skills.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/06/scraper_api.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/06/scraper_microservice.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/11/Dockerfile-microservice" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/11/build-api-container.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/11/build-scraper-container.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/11/nameko-config.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/11/scraper_api.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/11/11/scraper_microservice.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/11/11/build-microservice-container.sh" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/11/01/Dockerfile" afterPath="$PROJECT_DIR$/11/11/Dockerfile-api" />
-      <change beforePath="$PROJECT_DIR$/11/01/Dockerfile-ms" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/11/01/api.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/11/01/microservice.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/nameko/helloworld.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/11/11/Dockerfile-api" afterPath="$PROJECT_DIR$/11/11/Dockerfile-api" />
+      <change beforePath="$PROJECT_DIR$/11/11/build-api-container.sh" afterPath="$PROJECT_DIR$/11/11/build-api-container.sh" />
+      <change beforePath="$PROJECT_DIR$/11/11/build-scraper-container.sh" afterPath="" />
     </list>
     <ignored path="py.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +48,8 @@
       <file leaf-file-name="Dockerfile-api" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11/11/Dockerfile-api">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -93,27 +81,27 @@
         <entry file="file://$PROJECT_DIR$/11/11/Dockerfile-microservice">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+              <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build-api-container.sh" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build-api-container.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11/11/build-api-container.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
-              <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+              <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build-scraper-container.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11/11/build-scraper-container.sh">
+      <file leaf-file-name="build-microservice-container.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11/11/build-microservice-container.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="21">
-              <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+              <caret line="1" column="75" lean-forward="true" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -133,7 +121,7 @@
         <entry file="file://$PROJECT_DIR$/11/11/nameko-config.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+              <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -234,11 +222,11 @@
         <option value="$PROJECT_DIR$/11/06/scraper_microservice.py" />
         <option value="$PROJECT_DIR$/11/05/search_jobs_by_skills.py" />
         <option value="$PROJECT_DIR$/11/06/scraper_api.py" />
-        <option value="$PROJECT_DIR$/11/11/Dockerfile-api" />
-        <option value="$PROJECT_DIR$/11/11/nameko-config.yaml" />
         <option value="$PROJECT_DIR$/11/11/Dockerfile-microservice" />
         <option value="$PROJECT_DIR$/11/11/build-api-container.sh" />
         <option value="$PROJECT_DIR$/11/11/build-scraper-container.sh" />
+        <option value="$PROJECT_DIR$/11/11/nameko-config.yaml" />
+        <option value="$PROJECT_DIR$/11/11/Dockerfile-api" />
       </list>
     </option>
   </component>
@@ -721,7 +709,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515371258229</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Many updates">
+      <created>1515631280062</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1515631280062</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1183,7 +1178,23 @@
     <entry file="file://$PROJECT_DIR$/11/11/nameko-config.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <caret line="0" column="50" lean-forward="false" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/11/build-microservice-container.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="75" lean-forward="true" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11/11/Dockerfile-api">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1191,15 +1202,7 @@
     <entry file="file://$PROJECT_DIR$/11/11/Dockerfile-microservice">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11/11/Dockerfile-api">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1207,15 +1210,7 @@
     <entry file="file://$PROJECT_DIR$/11/11/build-api-container.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11/11/build-scraper-container.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+          <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
           <folding />
         </state>
       </provider>

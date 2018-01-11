@@ -3,6 +3,6 @@ WORKDIR /usr/src/app
 
 RUN pip install Flask-RESTful Elasticsearch Nameko
 
-COPY 11/11/api.py .
+COPY 11/11/scraper_api.py .
 
 CMD ["python", "scraper_api.py"]
