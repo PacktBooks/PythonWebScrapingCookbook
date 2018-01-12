@@ -15,7 +15,6 @@ class ScrapeStackOverflowJobListingsMicroService:
         print(listing)
         return listing
 
-
     @rpc
     def ping(self):
         return "pong"

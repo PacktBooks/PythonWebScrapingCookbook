@@ -11,7 +11,12 @@ class JobListing(Resource):
     def get(self, job_listing_id):
         print("Request for job listing with id: " + job_listing_id)
 
-        es = Elasticsearch(hosts=["elastic"])
+        host = 'localhost'
+        if os.environ.get('ES_HOST'):
+            host = os.environ.get('ES_HOST')
+        print("ElasticSearch host: " + host)
+
+        es = Elasticsearch(hosts=[host])
         if (es.exists(index='joblistings', doc_type='job-listing', id=job_listing_id)):
             print('Found the document in ElasticSearch')
             doc =  es.get(index='joblistings', doc_type='job-listing', id=job_listing_id)
@@ -22,6 +27,7 @@ class JobListing(Resource):
         CONFIG = {'AMQP_URI': "amqp://guest:guest@localhost"}
         if os.environ.get('JOBS_AMQP_URL'):
             CONFIG['AMQP_URI'] = os.environ.get('JOBS_AMQP_URL')
+        print("AMQP_URI: " + CONFIG["AMQP_URI"])
 
         with ClusterRpcProxy(CONFIG) as rpc:
             listing = rpc.stack_overflow_job_listings_scraping_microservice.get_job_listing_info(job_listing_id)
@@ -39,6 +45,7 @@ class JobSearch(Resource):
         host = 'localhost'
         if os.environ.get('ES_HOST'):
             host = os.environ.get('ES_HOST')
+        print("ElasticSearch host: " + host)
 
         es = Elasticsearch(hosts=[host])
         search_definition = {
