@@ -15,6 +15,12 @@ class ScrapeStackOverflowJobListingsMicroService:
         print(listing)
         return listing
 
+
+    @rpc
+    def ping(self):
+        return "pong"
+
+
 if __name__ == "__main__":
     print("Starting scraper microservice")
 
