@@ -40,6 +40,8 @@ class JobSearch(Resource):
         if os.environ.get('ES_HOST'):
             host = os.environ.get('ES_HOST')
 
+        print(host)
+
         es = Elasticsearch(hosts=[host])
         search_definition = {
             "query": {

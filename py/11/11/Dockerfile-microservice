@@ -5,7 +5,6 @@ RUN pip install nameko BeautifulSoup4 nltk lxml
 RUN python -m nltk.downloader punkt -d /usr/share/nltk_data all
 
 COPY 11/11/scraper_microservice.py .
-COPY 11/11/nameko-config.yaml .
 COPY modules/sojobs sojobs
 
-CMD ["nameko", "run", "--config", "./namkeko-config.yaml", "scraper_microservice"]
+CMD ["python", "-u", "scraper_microservice.py"]
