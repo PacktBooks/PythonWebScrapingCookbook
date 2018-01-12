@@ -16,12 +16,12 @@
             "memory": 256,
             "portMappings": [
                 {
-                    "containerPort": 15762,
+                    "containerPort": 15672,
                     "hostPort": 15672,
                     "protocol": "tcp"
                 },
                 {
-                    "containerPort": 5762,
+                    "containerPort": 5672,
                     "hostPort": 5672,
                     "protocol": "tcp"
                 }
@@ -31,7 +31,6 @@
         {
             "name": "scraper-microservice",
             "image": "414704166289.dkr.ecr.us-west-2.amazonaws.com/scraper-microservice",
-            "hostname": "scraper",
             "cpu": 0,
             "memory": 256,
             "essential": true,
@@ -48,10 +47,16 @@
         {
             "name": "api",
             "image": "414704166289.dkr.ecr.us-west-2.amazonaws.com/scraper-rest-api",
-            "hostname": "api",
             "cpu": 0,
             "memory": 128,
             "essential": true,
+            "portMappings": [
+                {
+                    "containerPort": 8080,
+                    "hostPort": 80,
+                    "protocol": "tcp"
+                }
+            ],
             "environment": [
                 {
                     "name": "AMQP_URI",
