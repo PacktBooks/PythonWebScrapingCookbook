@@ -61,6 +61,10 @@
                 {
                     "name": "AMQP_URI",
                     "value": "pyamqp://guest:guest@rabbitmq"
+                },
+                {
+                    "name": "ES_HOST",
+                    "value": "https://elastic:tduhdExunhEWPjSuH73O6yLS@7dc72d3327076cc4daf5528103c46a27.us-west-2.aws.found.io:9243"
                 }
             ],
             "links": [
