@@ -1,5 +1,5 @@
 {
-    "family": "scraper",
+    "family": "scraper-as-a-service",
     "requiresCompatibilities": [
         "EC2"
     ],
