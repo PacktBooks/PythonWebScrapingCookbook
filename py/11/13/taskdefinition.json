@@ -1,4 +1,25 @@
 {
+  "family": "scraper-as-a-service2",
+  "requiresAttributes": [
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.17"
+    },
+    {
+      "targetId": null,
+      "targetType": null,
+      "value": null,
+      "name": "com.amazonaws.ecs.capability.ecr-auth"
+    }
+  ],
+  "requiresCompatibilities": null,
+  "networkMode": null,
+  "cpu": "1024",
+  "revision": 16,
+  "volumes": [],
+
   "containerDefinitions": [
     {
       "dnsSearchDomains": null,
@@ -128,27 +149,5 @@
   "taskRoleArn": null,
   "compatibilities": [
     "EC2"
-  ],
-  "taskDefinitionArn": "arn:aws:ecs:us-west-2:414704166289:task-definition/scraper-as-a-service:16",
-  "family": "scraper-as-a-service",
-  "requiresAttributes": [
-    {
-      "targetId": null,
-      "targetType": null,
-      "value": null,
-      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.17"
-    },
-    {
-      "targetId": null,
-      "targetType": null,
-      "value": null,
-      "name": "com.amazonaws.ecs.capability.ecr-auth"
-    }
-  ],
-  "requiresCompatibilities": null,
-  "networkMode": null,
-  "cpu": "1024",
-  "revision": 16,
-  "status": "ACTIVE",
-  "volumes": []
+  ]
 }
