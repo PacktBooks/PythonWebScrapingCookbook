@@ -2,29 +2,10 @@
   "family": "scraper-as-a-service2",
   "networkMode": null,
   "cpu": "1024",
-  "revision": 16,
   "volumes": [],
-  "requiresCompatibilities": null,
-  "requiresAttributes": [
-    {
-      "targetId": null,
-      "targetType": null,
-      "value": null,
-      "name": "com.amazonaws.ecs.capability.docker-remote-api.1.17"
-    },
-    {
-      "targetId": null,
-      "targetType": null,
-      "value": null,
-      "name": "com.amazonaws.ecs.capability.ecr-auth"
-    }
-  ],
   "placementConstraints": [],
   "memory": "4096",
   "taskRoleArn": null,
-  "compatibilities": [
-    "EC2"
-  ],
 
   "containerDefinitions": [
   ]
