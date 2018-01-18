@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 def get_planet_data():
-	html = urlopen("http://smac.io:5001/planets.html")
+	html = urlopen("http://localhost:8080/planets.html")
 	bsobj = BeautifulSoup(html, "lxml")
 
 	planets = []

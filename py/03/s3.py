@@ -4,7 +4,7 @@ import boto3
 
 data = requests.get("http://localhost:8080/pages/planets.html").text
 
-# create S3 client
+# create S3 client, use environment variables for keys
 s3 = boto3.client('s3')
 
 # the bucket

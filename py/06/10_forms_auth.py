@@ -31,7 +31,7 @@ class Spider(scrapy.Spider):
             pass
 
     def after_login(self, response):
-        if "This page is secured!" in str(response.body):
+        if "This page is secured" in str(response.body):
             print("You have logged in ok!")
 
     @classmethod

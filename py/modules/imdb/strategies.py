@@ -82,11 +82,13 @@ def extract_acted_in_titles_from_actor_page_html(actor_page_html):
 
     return titles
 
+
 def get_actors_for_title(title_info):
     if title_info.html is None:
         title_info.html = get_title_page_html(title_info.id)
     actors = extract_actors_for_title_from_html(title_info.html)
     return actors
+
 
 def extract_actors_for_title_from_html(title_page_html):
     soup = BeautifulSoup(title_page_html, "lxml")
