@@ -2,88 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8c3d48c-f939-45ba-b22e-fc4e06d6a4d8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/01/basic_get.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01/python_org_phatomjs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01/python_org_scraper_requests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01/python_org_scraper_urllib3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01/python_org_scrapy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01/python_org_selenium.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/01/requirements.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/04/BigBuckBunny.mp4" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08/05_wikipedia_scrapy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08/06_visualize_wikipedia_links.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08/07_degrees_of_separation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08/buildgrams.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08/punctuation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08/spacex-job-listing.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/08/tech2grams.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/tmdb/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/tmdb/relationship_crawler.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/modules/tmdb/strategies.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/01/geckodriver" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/04/const.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/modules/util/const.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/02.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03/conver_to_json.py" afterPath="$PROJECT_DIR$/03/convert_to_json.py" />
-      <change beforePath="$PROJECT_DIR$/03/create_csv.py" afterPath="$PROJECT_DIR$/03/create_csv.py" />
-      <change beforePath="$PROJECT_DIR$/03/get_planet_data.py" afterPath="$PROJECT_DIR$/03/get_planet_data.py" />
-      <change beforePath="$PROJECT_DIR$/03/s3.py" afterPath="$PROJECT_DIR$/03/s3.py" />
-      <change beforePath="$PROJECT_DIR$/04/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/04_11_filter_image_background.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/04_12_download_youtube_video.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/04_13_get_youtube_video_screenshots.py" afterPath="$PROJECT_DIR$/04/04_11_create_video_thumbnail.py" />
-      <change beforePath="$PROJECT_DIR$/04/04_14_rip_mp3_from_mp4.py.py" afterPath="$PROJECT_DIR$/04/04_12_rip_mp3_from_mp4.py" />
-      <change beforePath="$PROJECT_DIR$/04/04_15_get_playlist_urls.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/04_16_download_and_rip_playlist.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/Untitled.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/echo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/img1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/04/sample.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/06/03_scrapy_pagination_imdb.py" afterPath="$PROJECT_DIR$/06/03_scrapy_pagination.py" />
-      <change beforePath="$PROJECT_DIR$/06/10_forms_auth.py" afterPath="$PROJECT_DIR$/06/10_forms_auth.py" />
-      <change beforePath="$PROJECT_DIR$/06/99_nasa.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/06/99_parse_differently_on_subdomain.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/06/geckodriver.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/06/ghostdriver.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/07/13_word_cloud.py" afterPath="$PROJECT_DIR$/08/04_so_word_cloud.py" />
-      <change beforePath="$PROJECT_DIR$/08/04_search_imdb_for_actor_info.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/08/05_get_titles_for_actor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/08/06_get_actors_for_title.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/08/07_crawl_and_build.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/08/08_visualize_relationships.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/08/09_calculate_degrees_of_separation.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/01_omdb_ap1.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/geoip.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/geoip_wikipedia.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/get_techs_from_so_job_listing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/ocr_with_.py" afterPath="$PROJECT_DIR$/modules/wikipedia/spiders.py" />
-      <change beforePath="$PROJECT_DIR$/99/search_imdb_for_actor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/search_so_for_job_by_tech.py" afterPath="$PROJECT_DIR$/modules/wikipedia/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/99/six_degrees_of_imdb.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/stack_overflow_job_listing_agent.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/stack_overflow_job_listing_es.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/99/store_so_job_in_es.py" afterPath="$PROJECT_DIR$/modules/tmdb/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/__init.py__" afterPath="$PROJECT_DIR$/modules/core/__init.py__" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/03/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/core/__init.py__" afterPath="$PROJECT_DIR$/03/read_csv_via_pandas.py" />
-      <change beforePath="$PROJECT_DIR$/core/file_blob_writer.py" afterPath="$PROJECT_DIR$/modules/core/file_blob_writer.py" />
-      <change beforePath="$PROJECT_DIR$/core/ghostdriver.log" afterPath="$PROJECT_DIR$/modules/core/ghostdriver.log" />
-      <change beforePath="$PROJECT_DIR$/core/i_blob_writer.py" afterPath="$PROJECT_DIR$/modules/core/i_blob_writer.py" />
-      <change beforePath="$PROJECT_DIR$/core/image_thumbnail_generator.py" afterPath="$PROJECT_DIR$/modules/core/image_thumbnail_generator.py" />
-      <change beforePath="$PROJECT_DIR$/core/s3_blob_writer.py" afterPath="$PROJECT_DIR$/modules/core/s3_blob_writer.py" />
-      <change beforePath="$PROJECT_DIR$/core/s3_bucket_manager.py" afterPath="$PROJECT_DIR$/modules/core/s3_bucket_manager.py" />
-      <change beforePath="$PROJECT_DIR$/core/scraper_engine.py" afterPath="$PROJECT_DIR$/modules/core/scraper_engine.py" />
-      <change beforePath="$PROJECT_DIR$/core/sitemap.py" afterPath="$PROJECT_DIR$/modules/core/sitemap.py" />
-      <change beforePath="$PROJECT_DIR$/core/thumbnail.jpg" afterPath="$PROJECT_DIR$/modules/core/thumbnail.jpg" />
-      <change beforePath="$PROJECT_DIR$/core/website_screenshot_generator.py" afterPath="$PROJECT_DIR$/modules/core/website_screenshot_generator.py" />
-      <change beforePath="$PROJECT_DIR$/core/website_screenshot_with_screenshotapi.py" afterPath="$PROJECT_DIR$/modules/core/website_screenshot_with_screenshotapi.py" />
-      <change beforePath="$PROJECT_DIR$/core/youtube_playlist_crawler.py" afterPath="$PROJECT_DIR$/modules/core/youtube_playlist_crawler.py" />
-      <change beforePath="$PROJECT_DIR$/core/youtube_playlist_videourl_extractor.py" afterPath="$PROJECT_DIR$/modules/core/youtube_playlist_videourl_extractor.py" />
-      <change beforePath="$PROJECT_DIR$/core/youtube_video_processor.py" afterPath="$PROJECT_DIR$/modules/core/youtube_video_processor.py" />
-      <change beforePath="$PROJECT_DIR$/crawlers/SimpleYouTubePlayListCrawler.py" afterPath="$PROJECT_DIR$/03/read_csv_from_web.py" />
-      <change beforePath="$PROJECT_DIR$/modules/imdb/strategies.py" afterPath="$PROJECT_DIR$/modules/imdb/strategies.py" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/scrape_images_from_apod_2local.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/util/logger_factory.py" afterPath="$PROJECT_DIR$/modules/util/logger_factory.py" />
-      <change beforePath="$PROJECT_DIR$/util/urls.py" afterPath="$PROJECT_DIR$/modules/util/urls.py" />
+      <change beforePath="$PROJECT_DIR$/01/basic_get.py" afterPath="$PROJECT_DIR$/01/06_gets_with_twisted.py" />
+      <change beforePath="$PROJECT_DIR$/01/python_org_phatomjs.py" afterPath="$PROJECT_DIR$/01/05_events_with_phantomjs.py" />
+      <change beforePath="$PROJECT_DIR$/01/python_org_scraper_requests.py" afterPath="$PROJECT_DIR$/01/01_events_with_requests.py" />
+      <change beforePath="$PROJECT_DIR$/01/python_org_scraper_urllib3.py" afterPath="$PROJECT_DIR$/01/02_events_with_urlib3.py" />
+      <change beforePath="$PROJECT_DIR$/01/python_org_scrapy.py" afterPath="$PROJECT_DIR$/01/03_events_with_scrapy.py" />
+      <change beforePath="$PROJECT_DIR$/01/python_org_selenium.py" afterPath="$PROJECT_DIR$/01/04_events_with_selenium.py" />
+      <change beforePath="$PROJECT_DIR$/01/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/const.py" afterPath="$PROJECT_DIR$/03/const.py" />
     </list>
     <ignored path="py.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,6 +27,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/py$app.coverage" NAME="app Coverage Results" MODIFIED="1514428988127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09" />
     <SUITE FILE_PATH="coverage/py$10_forms_auth.coverage" NAME="10_forms_auth Coverage Results" MODIFIED="1516082717547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/py$04_events_with_selenium.coverage" NAME="04_events_with_selenium Coverage Results" MODIFIED="1516340533518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
     <SUITE FILE_PATH="coverage/py$03_scrapy_pagination.coverage" NAME="03_scrapy_pagination Coverage Results" MODIFIED="1516082704146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/py$scraper_api.coverage" NAME="scraper_api Coverage Results" MODIFIED="1515559436563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/06" />
     <SUITE FILE_PATH="coverage/py$98_wikipedia_scrapy.coverage" NAME="98_wikipedia_scrapy Coverage Results" MODIFIED="1516251449921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
@@ -111,9 +42,12 @@
     <SUITE FILE_PATH="coverage/py$12_parse_differently_based_on_rules.coverage" NAME="12_parse_differently_based_on_rules Coverage Results" MODIFIED="1514437603181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/py$call_scraper_microservice.coverage" NAME="call_scraper_microservice Coverage Results" MODIFIED="1515131463373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10/07" />
     <SUITE FILE_PATH="coverage/py$06_scrapy_continuous.coverage" NAME="06_scrapy_continuous Coverage Results" MODIFIED="1515991149564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/py$01_events_with_requests.coverage" NAME="01_events_with_requests Coverage Results" MODIFIED="1516334330033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
     <SUITE FILE_PATH="coverage/py$06_get_actors_for_title.coverage" NAME="06_get_actors_for_title Coverage Results" MODIFIED="1515963997305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
     <SUITE FILE_PATH="coverage/py$search_jobs_by_skills.coverage" NAME="search_jobs_by_skills Coverage Results" MODIFIED="1515473947310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11/05" />
     <SUITE FILE_PATH="coverage/py$06_allowed_domains.coverage" NAME="06_allowed_domains Coverage Results" MODIFIED="1514430976715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
+    <SUITE FILE_PATH="coverage/py$02_events_with_urlib3.coverage" NAME="02_events_with_urlib3 Coverage Results" MODIFIED="1516340614909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
+    <SUITE FILE_PATH="coverage/py$05_events_with_phantomjs.coverage" NAME="05_events_with_phantomjs Coverage Results" MODIFIED="1516340521056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
     <SUITE FILE_PATH="coverage/py$07_crawl_and_build.coverage" NAME="07_crawl_and_build Coverage Results" MODIFIED="1515964161952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
     <SUITE FILE_PATH="coverage/py$read_csv_from_web.coverage" NAME="read_csv_from_web Coverage Results" MODIFIED="1515988807676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/py$04_12_rip_mp3_from_mp4.coverage" NAME="04_12_rip_mp3_from_mp4 Coverage Results" MODIFIED="1515896890693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
@@ -128,8 +62,10 @@
     <SUITE FILE_PATH="coverage/py$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1514770498989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/99/nameko" />
     <SUITE FILE_PATH="coverage/py$02_create_csv.coverage" NAME="02_create_csv Coverage Results" MODIFIED="1515988405952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03" />
     <SUITE FILE_PATH="coverage/py$99_get_links_from_wikipedia_page.coverage" NAME="99_get_links_from_wikipedia_page Coverage Results" MODIFIED="1516161308260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/py$06_gets_with_twisted.coverage" NAME="06_gets_with_twisted Coverage Results" MODIFIED="1516340983305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
     <SUITE FILE_PATH="coverage/py$06_parse_differently_on_subdomain.coverage" NAME="06_parse_differently_on_subdomain Coverage Results" MODIFIED="1514431849970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/py$08_visualize_relationships.coverage" NAME="08_visualize_relationships Coverage Results" MODIFIED="1515982015346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
+    <SUITE FILE_PATH="coverage/py$03_python_org_with_scrapy.coverage" NAME="03_python_org_with_scrapy Coverage Results" MODIFIED="1516340600350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01" />
     <SUITE FILE_PATH="coverage/py$06_nasa.coverage" NAME="06_nasa Coverage Results" MODIFIED="1514430808017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06" />
     <SUITE FILE_PATH="coverage/py$04_11_create_video_thumbnail.coverage" NAME="04_11_create_video_thumbnail Coverage Results" MODIFIED="1515896808789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04" />
     <SUITE FILE_PATH="coverage/py$04_search_imdb_for_actor_info.coverage" NAME="04_search_imdb_for_actor_info Coverage Results" MODIFIED="1515912138395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08" />
@@ -143,25 +79,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05_wikipedia_scrapy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/05_wikipedia_scrapy.py">
+      <file leaf-file-name="01_events_with_requests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/01_events_with_requests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="315">
+              <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
-                <element signature="e#0#45#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="06_visualize_wikipedia_links.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/06_visualize_wikipedia_links.py">
+      <file leaf-file-name="02_events_with_urlib3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/02_events_with_urlib3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+            <state relative-caret-position="252">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
-                <element signature="e#0#45#0" expanded="true" />
+                <element signature="e#0#14#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,20 +106,18 @@
       <file leaf-file-name="spiders.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/wikipedia/spiders.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="42" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#52#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="399">
+              <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07_degrees_of_separation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="07_degrees_of_separation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08/07_degrees_of_separation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="36" column="54" lean-forward="false" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+            <state relative-caret-position="204">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="48" />
               <folding>
                 <element signature="e#0#45#0" expanded="true" />
               </folding>
@@ -191,43 +125,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04_so_word_cloud.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/04_so_word_cloud.py">
+      <file leaf-file-name="03_events_with_scrapy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/03_events_with_scrapy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="84">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildgrams.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/buildgrams.py">
+      <file leaf-file-name="04_events_with_selenium.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/04_events_with_selenium.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="378">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spacex-job-listing.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/spacex-job-listing.html">
+      <file leaf-file-name="06_gets_with_twisted.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01/06_gets_with_twisted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="630">
+              <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_events_with_phantomjs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/05_events_with_phantomjs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tech2grams.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08/tech2grams.py">
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="435">
+              <caret line="1662" column="0" lean-forward="false" selection-start-line="1662" selection-start-column="0" selection-end-line="1662" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_01_Robots_scrapy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05/05_01_Robots_scrapy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -260,7 +216,11 @@
       <find>/cast</find>
       <find>process.crawl</find>
       <find>DEPTH</find>
+      <find>const</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -268,15 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11/06/scraper_microservice.py" />
-        <option value="$PROJECT_DIR$/11/05/search_jobs_by_skills.py" />
-        <option value="$PROJECT_DIR$/11/11/build-api-container.sh" />
-        <option value="$PROJECT_DIR$/11/11/build-scraper-container.sh" />
-        <option value="$PROJECT_DIR$/11/11/nameko-config.yaml" />
-        <option value="$PROJECT_DIR$/11/11/Dockerfile-api" />
-        <option value="$PROJECT_DIR$/11/11/test.py" />
-        <option value="$PROJECT_DIR$/modules/sojobs/scraping.py" />
-        <option value="$PROJECT_DIR$/11/11/rolePolicy.json" />
         <option value="$PROJECT_DIR$/11/11/scraper_microservice.py" />
         <option value="$PROJECT_DIR$/11/06/scraper_api.py" />
         <option value="$PROJECT_DIR$/11/11/scraper_api.py" />
@@ -319,6 +270,15 @@
         <option value="$PROJECT_DIR$/modules/wikipedia/spiders.py" />
         <option value="$PROJECT_DIR$/08/06_visualize_wikipedia_links.py" />
         <option value="$PROJECT_DIR$/08/07_degrees_of_separation.py" />
+        <option value="$PROJECT_DIR$/01/python_org_scrapy.py" />
+        <option value="$PROJECT_DIR$/05/05_01_Robots_scrapy.py" />
+        <option value="$PROJECT_DIR$/01/03_python_org_with_scrapy.py" />
+        <option value="$PROJECT_DIR$/01/01_events_with_requests.py" />
+        <option value="$PROJECT_DIR$/01/02_events_with_urlib3.py" />
+        <option value="$PROJECT_DIR$/01/03_events_with_scrapy.py" />
+        <option value="$PROJECT_DIR$/01/04_events_with_selenium.py" />
+        <option value="$PROJECT_DIR$/01/05_events_with_phantomjs.py" />
+        <option value="$PROJECT_DIR$/01/06_gets_with_twisted.py" />
       </list>
     </option>
   </component>
@@ -329,8 +289,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="141" />
-    <option name="y" value="48" />
+    <option name="x" value="40" />
+    <option name="y" value="68" />
     <option name="width" value="1950" />
     <option name="height" value="1343" />
   </component>
@@ -362,6 +322,21 @@
             <path>
               <item name="py" type="b2602c69:ProjectViewProjectNode" />
               <item name="py" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
+              <item name="05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
+              <item name="08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -374,7 +349,22 @@
               <item name="py" type="b2602c69:ProjectViewProjectNode" />
               <item name="py" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="wikipedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.1 (~/anaconda/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -407,11 +397,11 @@
       <recent name="$PROJECT_DIR$/04" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/util" />
+      <recent name="$PROJECT_DIR$/04" />
+      <recent name="$PROJECT_DIR$/03" />
       <recent name="$PROJECT_DIR$/08" />
       <recent name="$PROJECT_DIR$/modules/tmdb" />
-      <recent name="$PROJECT_DIR$/11/13" />
-      <recent name="$PROJECT_DIR$/11/11" />
-      <recent name="$PROJECT_DIR$/11/06" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -426,97 +416,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.96_degrees_of_separation">
-    <configuration name="04_so_word_cloud" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.06_gets_with_twisted">
+    <configuration name="02_events_with_urlib3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/04_so_word_cloud.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/02_events_with_urlib3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="96_degrees_of_separation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_python_org_with_scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/07_degrees_of_separation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/03_events_with_scrapy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="97_visualize_wikipedia_links" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_events_with_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/06_visualize_wikipedia_links.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/04_events_with_selenium.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="98_wikipedia_scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05_events_with_phantomjs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/05_wikipedia_scrapy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/05_events_with_phantomjs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="99_get_links_from_wikipedia_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06_gets_with_twisted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="py" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08/99_get_links_from_wikipedia_page.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/06_gets_with_twisted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -657,19 +647,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.99_get_links_from_wikipedia_page" />
-      <item index="1" class="java.lang.String" itemvalue="Python.98_wikipedia_scrapy" />
-      <item index="2" class="java.lang.String" itemvalue="Python.97_visualize_wikipedia_links" />
-      <item index="3" class="java.lang.String" itemvalue="Python.96_degrees_of_separation" />
-      <item index="4" class="java.lang.String" itemvalue="Python.04_so_word_cloud" />
+      <item index="0" class="java.lang.String" itemvalue="Python.02_events_with_urlib3" />
+      <item index="1" class="java.lang.String" itemvalue="Python.03_python_org_with_scrapy" />
+      <item index="2" class="java.lang.String" itemvalue="Python.04_events_with_selenium" />
+      <item index="3" class="java.lang.String" itemvalue="Python.05_events_with_phantomjs" />
+      <item index="4" class="java.lang.String" itemvalue="Python.06_gets_with_twisted" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.96_degrees_of_separation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.97_visualize_wikipedia_links" />
-        <item index="2" class="java.lang.String" itemvalue="Python.98_wikipedia_scrapy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.04_so_word_cloud" />
-        <item index="4" class="java.lang.String" itemvalue="Python.99_get_links_from_wikipedia_page" />
+        <item index="0" class="java.lang.String" itemvalue="Python.06_gets_with_twisted" />
+        <item index="1" class="java.lang.String" itemvalue="Python.02_events_with_urlib3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.03_python_org_with_scrapy" />
+        <item index="3" class="java.lang.String" itemvalue="Python.04_events_with_selenium" />
+        <item index="4" class="java.lang.String" itemvalue="Python.05_events_with_phantomjs" />
       </list>
     </recent_temporary>
   </component>
@@ -841,21 +831,29 @@
       <option name="project" value="LOCAL" />
       <updated>1516315422894</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Many updates">
+      <created>1516317247318</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1516317247318</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="141" y="48" width="1950" height="1343" extended-state="0" />
+    <frame x="40" y="68" width="1950" height="1343" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30836654" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290008" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16812749" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4310757" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17897436" sideWeight="0.7752" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17897436" sideWeight="0.7752" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32981315" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16717948" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1890016" sideWeight="0.2248" order="2" side_tool="true" content_ui="tabs" />
@@ -865,7 +863,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32828686" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -967,6 +964,26 @@
           <line>3</line>
           <option name="timeStamp" value="205" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01/02_events_with_urlib3.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01/01_events_with_requests.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01/01_events_with_requests.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01/03_events_with_scrapy.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -978,92 +995,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="206" />
+      <option name="time" value="212" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/imdb/relationship_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/imdb/strategies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="1667" column="0" lean-forward="false" selection-start-line="1667" selection-start-column="0" selection-end-line="1667" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08/08_visualize_relationships.py" />
-    <entry file="file://$PROJECT_DIR$/08/09_calculate_degrees_of_separation.py" />
-    <entry file="file://$PROJECT_DIR$/modules/util/logger_factory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/util/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawlers/SimpleYouTubePlayListCrawler.py" />
-    <entry file="file://$PROJECT_DIR$/scrape_images_from_apod_2local.py" />
-    <entry file="file://$PROJECT_DIR$/const.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03/get_planet_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03/create_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03/read_csv_from_web.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03/create_df_planets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03/read_csv_via_pandas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1156,20 +1092,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/05_02_sitemap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05/05_04_user_agent_requests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/scrapy/http/response/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -1253,7 +1175,7 @@
         <state relative-caret-position="168">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1281,17 +1203,7 @@
         <state relative-caret-position="336">
           <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/wikipedia/spiders.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="42" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1301,17 +1213,173 @@
         <state relative-caret-position="735">
           <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/const.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/util/const.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04/const.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_04_user_agent_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_03_scrape_with_delay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_02_sitemap_scrapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_02_sitemap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_01_Robots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/01_events_with_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08/07_degrees_of_separation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="54" lean-forward="false" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+        <state relative-caret-position="204">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="48" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="1662" column="0" lean-forward="false" selection-start-line="1662" selection-start-column="0" selection-end-line="1662" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/05_01_Robots_scrapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/05_events_with_phantomjs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/03_events_with_scrapy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/02_events_with_urlib3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/04_events_with_selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/wikipedia/spiders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/06_gets_with_twisted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
