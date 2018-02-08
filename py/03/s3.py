@@ -1,8 +1,7 @@
 import requests
-import botocore
 import boto3
 
-data = requests.get("http://localhost:8080/pages/planets.html").text
+data = requests.get("http://localhost:8080/planets.html").text
 
 # create S3 client, use environment variables for keys
 s3 = boto3.client('s3')

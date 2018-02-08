@@ -4,7 +4,7 @@ from scrapy.selector import Selector
 
 class Spider(scrapy.Spider):
     name = 'spider'
-    start_urls = ['http://localhost:5001/CrawlDepth0-1.html']
+    start_urls = ['http://localhost:8080/CrawlDepth0-1.html']
 
     @property
     def parsed_urls(self):

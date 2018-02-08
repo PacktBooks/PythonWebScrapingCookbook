@@ -1,8 +1,9 @@
 import requests
 import csv
 
-planets_request = requests.get("http://localhost:8080/planets.csv")
-csv_data = planets_request.text.split("\n")
-reader = csv.reader(csv_data, delimiter=',', quotechar='"')
-for row in reader:
-    print(row)
+planets_data = requests.get("http://localhost:8080/planets.csv").text
+planets = planets_data.split('\n')
+reader = csv.reader(planets, delimiter=',', quotechar='"')
+lines = [line for line in reader][:-1]
+for line in lines: print(line)
+

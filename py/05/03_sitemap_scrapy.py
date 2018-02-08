@@ -9,6 +9,9 @@ class Spider(scrapy.spiders.SitemapSpider):
         print("Parsing: ", response)
 
 if __name__ == "__main__":
-    process = CrawlerProcess()
+    process = CrawlerProcess({
+        'DOWNLOAD_DELAY': 0,
+        'LOG_LEVEL': 'DEBUG'
+    })
     process.crawl(Spider)
     process.start()

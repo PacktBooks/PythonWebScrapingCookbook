@@ -2,7 +2,6 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 import boto3
-import botocore
 
 # create sqs client
 sqs = boto3.client('sqs', "us-west-2")
@@ -12,7 +11,7 @@ queue = sqs.create_queue(QueueName="PlanetMoreInfo")
 print (queue)
 
 # read and parse the planets HTML
-html = urlopen("http://127.0.0.1:8080/pages/planets.min.html")
+html = urlopen("http://localhost:8080/planets.html")
 bsobj = BeautifulSoup(html, "lxml")
 
 planets = []

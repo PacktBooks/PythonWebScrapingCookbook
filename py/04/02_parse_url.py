@@ -7,4 +7,4 @@ import const
 from util.urls import URLUtility
 
 util = URLUtility(const.ApodEclipseImage())
-print("The filename is:" + util.filename_without_ext)
+print("The filename is: " + util.filename_without_ext)

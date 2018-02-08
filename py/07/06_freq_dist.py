@@ -5,8 +5,6 @@ from nltk.corpus import stopwords
 with open('wotw.txt', 'r') as file:
     data = file.read()
 
-
-
 tokens = [word.lower() for word in regexp_tokenize(data, '\w+')]
 stoplist = stopwords.words('english')
 without_stops = [word for word in tokens if word not in stoplist]
